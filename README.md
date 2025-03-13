@@ -1,8 +1,8 @@
-## Node.js Projects & Exercises
+# Node.js Projects & Exercises
 
 Este repositório contém diversos projetos e exercícios desenvolvidos em Node.js para aprendizado e aprimoramento das habilidades na plataforma.
 
-#Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - Node.js
 
@@ -10,7 +10,7 @@ Este repositório contém diversos projetos e exercícios desenvolvidos em Node.
 
 - MongoDB
 
-# 📌 Sobre o Repositório
+## 📌 Sobre o Repositório
 Este repositório tem o objetivo de armazenar:
 
 Pequenos projetos desenvolvidos em Node.js.
