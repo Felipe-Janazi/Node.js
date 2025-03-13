@@ -4,11 +4,9 @@ Este repositório contém diversos projetos e exercícios desenvolvidos em Node.
 
 ## 👨🏻‍💻 Tecnologias Utilizadas
 
-- Node.js
-
-- Express.js 
-
-- MongoDB
+- Node.js - Usado para criação da API Rest
+- Express.js - Usado para administração de requisições e respostas
+- MongoDB - Banco de Dados
 
 ## 📌 Sobre o Repositório
 Este repositório tem o objetivo de armazenar:
